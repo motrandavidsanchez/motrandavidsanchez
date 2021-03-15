@@ -11,8 +11,7 @@
 
 
 ### IDE
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="50px"/>  
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50px"/>
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="50px"/> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50px"/>
 
 
 ### Hadware:
@@ -20,4 +19,4 @@
 
 
 ## I Love
-<img src="https://www.ituser.es/files/201607/linux.jpg" width="140px"/>
+<img src="https://logopond.com/logos/764befce2161b53b5895108e1e8597d7.png" width="120px"/>
