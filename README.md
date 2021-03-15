@@ -7,16 +7,16 @@
 
 
 ### Lenguages and Tools:
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50px"/>  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" width="100px"/>  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50px"/> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50px"/>  <img src="https://c0.klipartz.com/pngpicture/884/748/gratis-png-postgresql-computer-icons-database-angularjs-tencent.png" width="50px"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" title="Python" width="50px"/>  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" title="Django" width="100px"/>  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" title="JavaScript" width="50px"/> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" title="React" width="50px"/>  <img src="https://c0.klipartz.com/pngpicture/884/748/gratis-png-postgresql-computer-icons-database-angularjs-tencent.png" title="PostgreSQL" width="50px"/>
 
 
 ### IDE
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="50px"/> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50px"/>
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" title="Visual Studio Code" width="50px"/> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" title="PyCharm" width="50px"/>
 
 
 ### Hadware:
-<img src="https://www.aranacorp.com/wp-content/uploads/raspberry-pi-logo.jpg" width="120px"/>
+<img src="https://www.aranacorp.com/wp-content/uploads/raspberry-pi-logo.jpg" title="Raspberry Pi" width="120px"/>
 
 
 ## I Love
-<img src="https://logopond.com/logos/764befce2161b53b5895108e1e8597d7.png" width="120px"/>
+<img src="https://logopond.com/logos/764befce2161b53b5895108e1e8597d7.png" title="Linux" width="120px"/>
