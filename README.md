@@ -7,7 +7,9 @@
 
 
 ### Lenguages and Tools:
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" title="Python" width="50px"/>  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" title="Django" width="100px"/>  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" title="JavaScript" width="50px"/> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" title="React" width="50px"/>  <img src="https://c0.klipartz.com/pngpicture/884/748/gratis-png-postgresql-computer-icons-database-angularjs-tencent.png" title="PostgreSQL" width="50px"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" title="Python" width="50px"/>  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" title="Django" width="100px"/>  
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" title="FastApi" width="50px"/>
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" title="JavaScript" width="50px"/> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" title="React" width="50px"/>  <img src="https://c0.klipartz.com/pngpicture/884/748/gratis-png-postgresql-computer-icons-database-angularjs-tencent.png" title="PostgreSQL" width="50px"/>
 
 
 ### IDE
