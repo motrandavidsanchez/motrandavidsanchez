@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h4 align="center">Software Engineer | Freelancer </h4>
+<h4 align="center">Software Engineer </h4>
 
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Codeando">
